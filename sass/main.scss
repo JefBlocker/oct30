@@ -1,0 +1,12 @@
+@import "bourbon";
+@import "neat";
+@import "font-awesome";
+
+body {
+  background: #e0e1db;
+}
+
+img #logo {
+  max-height: 100px;
+  max-width: 100px;
+}
